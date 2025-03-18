@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p87302-e1574397.adobeaemcloud.com/bin/franklin.delivery/Nichols5973/weekendUE"
+    url: "https://author-p87302-e1574397.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/Nichols5973/weekendUE"
     type: "markup"
     suffix: ".html"
