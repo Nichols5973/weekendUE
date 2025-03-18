@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/weekend/:/",
-    "/content/weekend/configuration:/.helix/config.json",
-    "/content/weekend/metadata:/metadata.json"
+    "/content/UEweekend/:/",
+    "/content/UEweekend/configuration:/.helix/config.json",
+    "/content/UEweekend/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/weekend/"
+    "/content/UEweekend/"
   ]
 }
